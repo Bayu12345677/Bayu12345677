@@ -35,14 +35,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayu12345677&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Bayu12345677">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bayu12345677&show_icons=true&theme=light&line_height=27" alt="polygon's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bayu12345677&show_icons=true&theme=dark&line_height=27" alt="polygon's github stats"/>
 </a>
 <a href="https://github.com/Bayu12345677/zarchiver1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bayu12345677&repo=zarchiver1&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bayu12345677&repo=zarchiver1&theme=dark" />
 
 </a>
 <a href="https://github.com/Bayu12345677/spam-unli">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bayu12345677&repo=spam-unli&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bayu12345677&repo=spam-unli&theme=dark" />
 </a>
 
 <div align="center">

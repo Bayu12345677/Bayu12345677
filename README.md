@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polygon&label=Views&color=blue&style=plastic" alt="polygon" /> </p>
 
 <a href="https://github.com/Bayu12345677">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Bayu12345677's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.facebook.com/Bayu riski/">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -32,7 +32,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>  
 
 <a href="https://github.com/Bayu12345677">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayu12345677&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayu12345677&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Bayu12345677">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bayu12345677&show_icons=true&theme=light&line_height=27" alt="polygon's github stats"/>

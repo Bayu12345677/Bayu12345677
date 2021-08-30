@@ -27,7 +27,7 @@
 
 [![GitHub Bayu12345677](https://img.shields.io/github/followers/Bayu12345677?label=follow&style=social)](https://github.com/Bayu12345677)
 [![youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
-<code><img align="polygon's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<code><img align="polygon's Youtube" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>  

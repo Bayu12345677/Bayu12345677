@@ -21,7 +21,7 @@
 - 🎥 jng lupa subrek [Youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg).
 - 🔊 tanks yg sudah mampir
 - 💻 bahasa coding: Bash :v.
-- 📫 sosmed saya: [Youtube - pejuang kentang](https://youtube.com/pejuang kentang)
+- 📫 sosmed saya: [Youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
 - ☕ awali dengan ngopi
 - ⚡ Fun fact: ngoding :v
 

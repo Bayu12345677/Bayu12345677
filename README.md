@@ -37,11 +37,11 @@
 <a href="https://github.com/Bayu12345677">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bayu12345677&show_icons=true&theme=dark&line_height=27" alt="polygon's github stats"/>
 </a>
-<a href="https://github.com/Bayu12345677/zarchiver1">
+<a href="https://github.com/Bayu12345677/youtube">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bayu12345677&repo=youtube&theme=dark" />
 
 </a>
-<a href="https://github.com/Bayu12345677/spam-unli">
+<a href="https://github.com/Bayu12345677/python-enc">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bayu12345677&repo=python-enc&theme=dark" />
 </a>
 

@@ -23,7 +23,7 @@
 - 💻 bahasa coding: Bash :v.
 - 📫 sosmed saya: [Youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
 - ☕ awali dengan ngopi
-- ⚡ sedang mempelajari program python
+- ⚡ sedang mempelajari pemerograman python
 
 [![GitHub Bayu12345677](https://img.shields.io/github/followers/Bayu12345677?label=follow&style=social)](https://github.com/Bayu12345677)
 <code><img align="polygon's Youtube" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />

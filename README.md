@@ -31,15 +31,16 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png"></code>  
 
-<a href="https://github.com/Bayu12345677">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayu12345677&theme=dark&hide_langs_below=1" />
+### bahasa yg saya pakai
+
+<a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
+  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" width="90" />
 </a>
 <a href="https://github.com/Bayu12345677">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bayu12345677&show_icons=true&theme=dark&line_height=27" alt="polygon's github stats"/>
 </a>
 <a href="https://github.com/Bayu12345677/youtube">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bayu12345677&repo=youtube&theme=dark" />
-
 </a>
 <a href="https://github.com/Bayu12345677/python-enc">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bayu12345677&repo=python-enc&theme=dark" />

@@ -28,8 +28,8 @@
 [![GitHub Bayu12345677](https://img.shields.io/github/followers/Bayu12345677?label=follow&style=social)](https://github.com/Bayu12345677)
 <code><img align="polygon's Youtube" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png"></code>  
 
 <a href="https://github.com/Bayu12345677">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayu12345677&theme=dark&hide_langs_below=1" />

@@ -33,13 +33,13 @@
 ### bahasa yg saya pakai
 
 <a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
-  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" width="50" />
+  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" width="40" />
 </a>
 <a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
-  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fish/fish.png" width="50" />
+  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fish/fish.png" width="40" />
 </a>
 <a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
- <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" width="50" />
+ <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" width="40" />
 </a>
 <a href="https://github.com/Bayu12345677">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bayu12345677&show_icons=true&theme=dark&line_height=27" alt="polygon's github stats"/>

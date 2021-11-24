@@ -43,8 +43,9 @@
  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" width="50" />
 </a>
 <a href="https://github.com/Bayu12345677">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bayu12345677&show_icons=true&theme=green&line_height=27" alt="polygon's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bayu12345677&show_icons=true&theme=dark&line_height=27" alt="polygon's github stats"/>
 </a>
+
 ![110318584-81067880-7fc2-11eb-8391-152d308e7f2b](https://user-images.githubusercontent.com/71582475/136984817-e8138b64-de1c-4c16-983a-c18692440543.gif)
 <div align="center">
 

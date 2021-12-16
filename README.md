@@ -48,6 +48,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bayu12345677&show_icons=true&theme=dark&line_height=27" alt="polygon's github stats"/>
 </a>
 
+<a href="https://github.com/Bayu12345677">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bayu12345677&layout=compact&theme=radical&count_private=true&locale=de"
+</a>
+
 ![110318584-81067880-7fc2-11eb-8391-152d308e7f2b](https://user-images.githubusercontent.com/71582475/136984817-e8138b64-de1c-4c16-983a-c18692440543.gif)
 <div align="center">
 

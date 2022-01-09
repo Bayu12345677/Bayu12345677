@@ -52,8 +52,18 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bayu12345677&layout=compact&theme=radical&count_private=true&locale=de"
 </a>
 
+<p align="center">
+  bahasa dan alat
+</p><br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fish/fish.png" width="50" alt="fish" border="5">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" width="50" alt="bash" border="5">
+  <img heigth="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" width="60" border="5">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" width="50" border="5"><br>
+  <br><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" border="5">
+</p>
 <div align="center">
 
-### terimakask telah mampir
+### terimakasi telah berkunjung
 
 </div>

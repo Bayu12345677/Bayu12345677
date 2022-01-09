@@ -16,12 +16,8 @@
 <br/>
 
 
-- 🔭 bisa cek [youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg).
-- 📍 programer shell.
-- 🎥 jng lupa subrek [Youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg).
-- 🔊 tanks yg sudah mampir
-- 💻 bahasa coding: Bash :v.
-- 📫 sosmed saya: [Youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
+- 🔭 subscribe :) [youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg).
+- 📍 scripting bash
 - ☕ awali dengan ngopi
 - ⚡ sedang mempelajari pemerograman python
 

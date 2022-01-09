@@ -21,6 +21,7 @@
 - ☕ awali dengan ngopi
 - ⚡ sedang mempelajari pemerograman python
 
+[![](https://github.com/Bayu12345677/Bayu12345677/blob/main/giv_img/programmer-cycle.gif)](https://github.com/Bayu12345677)<br>
 [![GitHub Bayu12345677](https://img.shields.io/github/followers/Bayu12345677?label=follow&style=social)](https://github.com/Bayu12345677)
 <code><img align="polygon's Youtube" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
@@ -40,6 +41,9 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 </code>
 </a>
+<h1 align="center">
+  Stats saya
+</h1></div>
 <a href="https://github.com/Bayu12345677">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bayu12345677&show_icons=true&theme=dark&line_height=27" alt="polygon's github stats"/>
 </a>
@@ -48,9 +52,8 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bayu12345677&layout=compact&theme=radical&count_private=true&locale=de"
 </a>
 
-![110318584-81067880-7fc2-11eb-8391-152d308e7f2b](https://user-images.githubusercontent.com/71582475/136984817-e8138b64-de1c-4c16-983a-c18692440543.gif)
 <div align="center">
 
-### tankqyu yg dah mampir 📋
+### terimakask telah mampir
 
 </div>

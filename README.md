@@ -16,10 +16,10 @@
 <br/>
 
 
-- 🔭 subscribe :) [youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg).
+- 🔭 subscribe [youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg).
 - 📍 scripting bash
 - ☕ awali dengan ngopi
-- ⚡ sedang mempelajari pemerograman python
+- ⚡ sedang mempelajari pemerograman haskell
 
 [![](https://github.com/Bayu12345677/Bayu12345677/blob/main/giv_img/programmer-cycle.gif)](https://github.com/Bayu12345677)<br>
 [![GitHub Bayu12345677](https://img.shields.io/github/followers/Bayu12345677?label=follow&style=social)](https://github.com/Bayu12345677)

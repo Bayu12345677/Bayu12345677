@@ -27,16 +27,7 @@
 ### bahasa yg saya pakai
 
 <a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" />
-</code>
-</a>
-<a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fish/fish.png" />
-</code>
-</a>
-<a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
-</code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" /><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fish/fish.png" /><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /></code>
 </a>
 <h1 align="center">
   Stats saya

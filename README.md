@@ -1,57 +1,35 @@
-## halo [saya Polygon!](https://github.com/Bayu12345677) 👋
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=polygon&label=Views&color=green&style=plastic" alt="polygon" /> </p>
-
-<a href="https://github.com/Bayu12345677">
-  <img align="left" alt="Bayu12345677's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.facebook.com/Bayu riski/">
-  <img align="left" alt="Bayu's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
-  <img align="left" alt="polygon's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
-<br/>
-<br/>
-
-
-- 🔭 subscribe [youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg).
-- 📍 scripting bash
-- ☕ awali dengan ngopi
-- ⚡ sedang mempelajari pemerograman haskell
-
-[![](https://github.com/Bayu12345677/Bayu12345677/blob/main/giv_img/programmer-cycle.gif)](https://github.com/Bayu12345677)<br>
-[![GitHub Bayu12345677](https://img.shields.io/github/followers/Bayu12345677?label=follow&style=social)](https://github.com/Bayu12345677)
-<code><img align="polygon's Youtube" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png"></code>  
-### bahasa yg saya pakai
-
-<a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" /><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fish/fish.png" /><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /></code>
-</a>
-<h1 align="center">
-  Stats saya
-</h1></div>
-<a href="https://github.com/Bayu12345677">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bayu12345677&show_icons=true&theme=dark&line_height=27" alt="polygon's github stats"/>
-</a>
-
-<a href="https://github.com/Bayu12345677">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bayu12345677&layout=compact&theme=radical&count_private=true&locale=de"
-</a>
-
+<h1 align="center">👾 Halo, Saya <a href="https://github.com/Bayu12345677">Polygon</a> 👋</h1>
 <p align="center">
-  bahasa dan alat
-</p><br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fish/fish.png" width="50" alt="fish" border="5">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" width="50" alt="bash" border="5">
-  <img heigth="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" width="60" border="5">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" width="50" border="5"><br>
-  <br><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" border="5">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Bash+Scripter+%7C+Obfuscator+%7C+Termux+Poweruser;Sedang+Mendalami+Haskell+dan+Perl;Ngopi+%E2%98%95+%2B+Ngoding;Hoby:+Workout" alt="Typing SVG" />
 </p>
-<div align="center">
 
-### terimakasi telah berkunjung
+<p align="center">
+  <a href="https://github.com/Bayu12345677">
+    <img src="https://komarev.com/ghpvc/?username=polygon&label=Profile+Views&color=00f7ff&style=plastic" alt="view count"/>
+  </a>
+</p>
 
-</div>
+---
+
+### 🧠 Tentang Saya
+
+```bash
+👨‍💻   Nama       : Bayu Rizky A.M (a.k.a Polygon)
+🔧   Skillset   : Bash, Perl, Lua, Fish, Python
+🔭   Proyek     : Script Obfuscator, Otp FLoads, Termux Tools
+⚡   Learning   : Functional Programming with Haskell
+☕   Moto       : Awali dengan ngopi, akhiri dengan workout
+```
+
+## 🚀 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=bash,python,lua,perl,haskell,ruby,nim,linux" height="50" /> </p>
+📊 Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bayu12345677&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayu12345677&layout=compact&theme=tokyonight&hide_border=true" width="48%"/> </p>
+
+## 🔗 Sosial & Channel
+<p align="center"> <a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg"><img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a> <a href="https://facebook.com/Bayu riski"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://github.com/Bayu12345677"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
+
+## ⚙️ Programmer Life Cycle
+
+<p align="center"> <img src="https://github.com/Bayu12345677/Bayu12345677/blob/main/giv_img/programmer-cycle.gif" width="80%"> </p>
+<h3 align="center">✨ Terima kasih sudah mampir ✨</h3> <p align="center"> <img src="https://img.shields.io/github/followers/Bayu12345677?label=Follow%20me&style=social" /></p>

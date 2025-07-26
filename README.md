@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Bayu12345677">
-    <img src="https://komarev.com/ghpvc/?username=polygon&label=Profile+Views&color=00f7ff&style=plastic" alt="view count"/>
+    <img src="https://komarev.com/ghpvc/?username=Bayu12345677&label=Profile+Views&color=00f7ff&style=plastic" alt="view count"/>
   </a>
 </p>
 

@@ -23,7 +23,7 @@
 🚀 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=bash,python,lua,perl,haskell,ruby,git,linux" height="50" /> </p>
 📊 Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bayu12345677&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayu12345677&layout=compact&theme=tokyonight&hide_border=true" width="48%"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bayu12345677&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayu12345677&layout=compact&theme=tokyonight&hide_border=true" width="100%"/> </p>
 🔗 Sosial & Channel
 <p align="center"> <a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg"><img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a> <a href="https://facebook.com/Bayu riski"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://github.com/Bayu12345677"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
 ⚙️ Programmer Life Cycle
